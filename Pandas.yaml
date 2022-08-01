@@ -1,6 +1,10 @@
 team : Pandas
 
+<<<<<<< HEAD
 manager : 3
+=======
+manager : 33
+>>>>>>> 1ae45d8 (change2)
 
 Coach : p
 
